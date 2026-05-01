@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi everyone!
 
-<!--
-**Vladislaus-37/Vladislaus-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+But, who i am?  
+i'm... i'm who i am? idk
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So i learning python, making small projects and other
+
+
+You can find me here:
+X (en): https://x.com/vladislaus_37  
+VK (ru): https://vk.com/vladislaus_37  
+Telegram (ru): https://t.me/vladislaus37
