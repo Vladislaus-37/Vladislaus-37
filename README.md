@@ -8,7 +8,7 @@ So i learning python, making small projects and other
 
 
 You can find me here:  
-X (en)            : https://x.com/vladislaus_37  
-VK (ru)           : https://vk.com/vladislaus_37  
-Telegram (ru)     : https://t.me/vladislaus37
-Site (ru)         : https://sites.google.com/view/vladislaus
+X (en)            : https://x.com/vladislaus_37 \
+VK (ru)           : https://vk.com/vladislaus_37 \ 
+Telegram (ru)     : https://t.me/vladislaus37 \
+Site (ru)         : https://sites.google.com/view/vladislaus \
